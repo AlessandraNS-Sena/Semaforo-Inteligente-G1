@@ -451,7 +451,9 @@ void loop() {
 
 </n>
 
-Link do vídeo: https://drive.google.com/file/d/1LN3um2UHB0v_a5Ks0nraQ7d6hUeohxpS/view?usp=sharing 
+Link do vídeo: https://drive.google.com/file/d/1LN3um2UHB0v_a5Ks0nraQ7d6hUeohxpS/view?usp=sharing
+
+Link da plataforma UBIDOTS: https://inteli-ubidots.iot-application.com/app/dashboards/public/dashboard/kCUB8FtlhP12J1oqvo7KqAnrBm04qHb5FxrUIbH3eYg?navbar=true&contextbar=false&layersBar=false
 
 </n>
 
